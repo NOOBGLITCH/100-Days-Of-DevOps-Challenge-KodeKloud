@@ -34,7 +34,6 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 ![100%](https://progress-bar.xyz/100)
 
-If you are already done this challenge, you can consider taking this next challenge: [100 Days of MLOps](https://github.com/NOOBGLITCH/100-days-mlops-kodekloud)
 
 ## 🏆 Challenge Completed
 
