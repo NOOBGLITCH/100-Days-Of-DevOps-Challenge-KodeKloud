@@ -36,6 +36,8 @@ This repository contains comprehensive solutions and detailed explanations for t
 
 
 ## 🏆 Challenge Completed
+<img width="2048" height="1456" alt="image" src="https://github.com/user-attachments/assets/1ae9d928-a3b2-407c-bcb5-a0a6b52219b5" />
+
 
 **Successfully completed the 100 Days of DevOps Challenge!**
 
